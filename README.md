@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaikhshahbaz
 - 👀 I’m interested in Big Data Hadoop & Cloud Computing
 - 🌱 I’m currently learning and making my perfectionist in Big Data
-- 💞️ I’m looking to collaborate on oher Developer
+- 💞️ I’m looking to collaborate on other Developer
 
 
 <!---
